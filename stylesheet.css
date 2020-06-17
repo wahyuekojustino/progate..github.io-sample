@@ -24,7 +24,7 @@ a {
 
 .top-wrapper {
   padding: 180px 0 100px 0;
-  background-image: url(https://prog-8.com/images/html/advanced/top_en.png);
+  background-image: url(https://www.arenalaptop.com/wp-content/uploads/2018/12/Laptop-Untuk-Programmer.jpg);
   background-size: cover;
   color: white;
   text-align: center;
@@ -52,7 +52,7 @@ a {
 }
 
 .signup {
-  background-color: #239b76;
+  background-color: #d63031;
 }
 
 .facebook {
@@ -205,4 +205,5 @@ footer p {
 footer {
   padding-top: 30px;
   padding-bottom: 20px;
+  background-color: #2d3436;
 }
